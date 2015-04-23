@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\KSIS_3_client\KSIS_3_client\bin\Debug\KSIS_3_client.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\KSIS_3_client\KSIS_3_client\bin\Debug\KSIS_3_client.exe
+c:\users\alex\documents\visual studio 2013\Projects\KSIS_3_client\KSIS_3_client\bin\Debug\KSIS_3_client.pdb
+c:\users\alex\documents\visual studio 2013\Projects\KSIS_3_client\KSIS_3_client\obj\Debug\KSIS_3_client.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\KSIS_3_client\KSIS_3_client\obj\Debug\KSIS_3_client.exe
+c:\users\alex\documents\visual studio 2013\Projects\KSIS_3_client\KSIS_3_client\obj\Debug\KSIS_3_client.pdb
